@@ -7,7 +7,7 @@ Unity + AI + Data | Published IEEE Author
 ---
 
 ## About Me  
-- Currently pursuing my MS in Computer Science at **NYU Tandon**.  
+- I am pursuing my MS in Computer Science at **NYU Tandon**.  
 - Passionate about **AI, multi-agent systems, and scalable software design**.  
 - Experience spans **game development, applied ML research, and data engineering**.  
 - I enjoy building projects that combine **intelligence, interactivity, and system design**.  
